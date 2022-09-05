@@ -1,0 +1,12 @@
+BillAPI is API monetisation tool which provides you the out of the box API Monetisation Capabilities going beyond your standard API Management Vendor.
+
+BillAPI's API monetisation senarioes
+
+    Pay-per-use: Each API call is a separate charge. This can also be extended to data where you charge per MB of data used. This is the most straightforward approach, but it works best for API providers that are already established as digital product vendors.
+    Subscription: This is a simple flat subscription fee for access to an API or a set of APIs. This is most appropriate for APIs that deliver useful functionality but not large quantities of data which might generate unpredictable costs for the provider’s operation.
+    Freemium: In this model, developers have access to a basic API for free up to a certain threshold and transition to pay-per-use in a tiered pricing model when they exceed that line. This model is one of the most popular for monetized public APIs since it encourages wide adoption of the “free” API. From a business perspective, it’s easier to anticipate operational expenses since they will scale with the income as customers move up the tiers.
+    Pay-per-transaction: Developer pays per transaction where one transaction can span several APIs. Just as with pay-per-use, this strategy will be more successful for known digital providers.
+    Revenue share: The revenue for the API is split between the provider and the developer. This makes sense when the API provider benefits each time the API is used. For example, a travel website created by a developer might expose an API provided by a car rental agency.
+    Pay for ad-free content: In this model the API is supported by ad revenue, and ads are removed if the user pays. This model is usually seen in high-volume, low-cost apps.
+    Paid partner: In this model a partner includes your content to drive potential traffic to you, whether through clicks, impressions, or even purchases. They can get paid based on how engaged the end user becomes or only when the customer purchases an item. This technique helps online retailers fine-tune their ability to target customers.
+
